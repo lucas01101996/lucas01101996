@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/lucasferraz101/"><img src= "https://user-images.githubusercontent.com/66107547/130264974-3fc9fd8d-0e37-4022-9205-c57f4415efaa.png"></a>
-  <a href="lucas_nogueira155@hotmail.com"><img src= "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-      outlook&logoColor=white"></a>
+  <a href="mailto:lucas_nogueira155@hotmail.com"><img src= "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div><br>
 
 
