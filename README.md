@@ -1,4 +1,4 @@
-## I'm Lucas Ferraz welcome to my github 👋
+## Hello, welcome to my github 👋
 
 <div>
   <a href="https://www.linkedin.com/in/lucasferraz101/"><img src= "https://user-images.githubusercontent.com/66107547/130264974-3fc9fd8d-0e37-4022-9205-c57f4415efaa.png"></a>
